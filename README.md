@@ -1,1 +1,1 @@
-# kursinio_priedai
+# Kompiuterinis švytinčių bakterijų formuojamų struktūrų modeliavimas
