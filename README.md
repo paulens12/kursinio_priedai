@@ -18,3 +18,13 @@
 |bakterijų koncentracija|chemoatraktanto koncentracija|
 |--|--|
 |![](demoU.gif)|![](demoV.gif)|
+
+|Konstanta|Reikšmė|
+|-|-|
+|_D<sub>u</sub>_|0,1|
+|_χ_|8,3|
+|_α<sub>u</sub>_|1|
+|_β<sub>v</sub>_|0,73|
+|_Δx_|0,075|
+|_Δy_|0,075|
+|_Δt_|0,00005|
